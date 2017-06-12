@@ -2,8 +2,6 @@
 //  javandoc
 //
 
-package com.guagua.player;
-
 import android.graphics.SurfaceTexture;
 
 import javax.microedition.khronos.egl.EGL10;

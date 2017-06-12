@@ -1,7 +1,7 @@
 //
 //	javandoc
 //
-package com.guagua.player;
+
 
 import android.content.Context;
 import android.graphics.Color;
